@@ -19,7 +19,6 @@ function app() {
             width: 800,
             height: 400
         },
-        injectWebcamUniform: true,
         uniforms: {
             u_texture1: {
                 type: 't',
